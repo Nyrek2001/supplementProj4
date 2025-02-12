@@ -1,0 +1,12 @@
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\bin\Debug\net9.0\Shape3DLibrary.deps.json
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\bin\Debug\net9.0\Shape3DLibrary.dll
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\bin\Debug\net9.0\Shape3DLibrary.pdb
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\obj\Debug\net9.0\Shape3DLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\obj\Debug\net9.0\Shape3DLibrary.AssemblyInfoInputs.cache
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\obj\Debug\net9.0\Shape3DLibrary.AssemblyInfo.cs
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\obj\Debug\net9.0\Shape3DLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\obj\Debug\net9.0\Shape3DLibrary.sourcelink.json
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\obj\Debug\net9.0\Shape3DLibrary.dll
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\obj\Debug\net9.0\refint\Shape3DLibrary.dll
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\obj\Debug\net9.0\Shape3DLibrary.pdb
+C:\Users\mcelr\OneDrive\Desktop\supplement4\Shape3DLibrary\obj\Debug\net9.0\ref\Shape3DLibrary.dll
