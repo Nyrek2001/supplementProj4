@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shape3DTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d57a946c95382c7a11f7492a0072a497ec7de060")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f416d5549bde06dda26f64c6a036556758ce221c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shape3DTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shape3DTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
