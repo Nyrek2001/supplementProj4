@@ -1,0 +1,29 @@
+Shape3D.cs:   /// <summary>
+    /// Abstract base class for all 3D shapes.
+    /// </summary>
+
+     /// <summary>
+        /// Returns the surface area of the shape.
+        /// </summary>
+
+     /// <summary>
+        /// Returns the volume of the shape.
+        /// </summary>
+
+Sphere.cs:  /// <summary>
+    /// Represents a 3D sphere.
+    /// </summary>
+
+    
+RectangularPrism.cs:   /// <summary>
+    /// Represents a rectangular prism.
+    /// </summary> 
+
+Cube.cs:    /// <summary>
+    /// Represents a cube, which is a special case of a rectangular prism.
+    /// </summary>
+
+
+TriangularPrism.cs:  /// <summary>
+    /// Represents a triangular prism.
+    /// </summary>
